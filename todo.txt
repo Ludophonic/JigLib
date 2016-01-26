@@ -1,0 +1,19 @@
+use tTransform instead of separate pos/orientation
+
+maybe use quaternion
+
+share data between primitives in collision skin
+
+use terminology of predicted transforms rather than new/old
+
+don't use float for time in physics system
+
+check elasticity - seems broken for accumulated
+
+proper contact caching
+
+check ballistic penetration resolution - fails when maxVelMag is large....
+
+Form collision islands
+
+preprocess getting called twice? (during collision even if n coll steps = 0)

@@ -1,0 +1,63 @@
+Logging set up
+JigTest Copyright 2007 Danny Chapman: danny@rowlhouse.freeserve.co.uk
+This comes with ABSOLUTELY NO WARRANTY;
+This is free software, and you are welcome to redistribute it
+under certain conditions; see the GNU General Public License
+Version compiled 00:59:42 Nov  9 2007
+.\physics\src\physicssystem.cpp:42: [0012FCF4]: 
+.\framework\rendermanager.cpp:23: [0012FDB4]: 
+.\application\jigtestapp.cpp:56: [0012FCB8]: 
+.\application\jigtestapp.cpp:1541: [0012FCB8]: 
+.\framework\sdlapplicationbase.cpp:80: [0012FCB8]: 
+.\application\jigtestapp.cpp:1449: [0012FCB8]: 
+Has no alpha
+Has no alpha
+Has no alpha
+Has no alpha
+Has no alpha
+Has no alpha
+.\application\jigtestapp.cpp:960: [0012FCB8]: 
+.\application\jigtestapp.cpp:1935: [0012FCB8]: 
+Creating tCollisionSystemGrid
+.\collision\src\collisionsystem.cpp:21: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:69: [0124FD80]: 
+.\collision\src\collisionsystemgrid.cpp:71: [0124FD80]: 
+Has no alpha
+skin 023D831C too big for gridding system - putting it into overflow list
+skin 023D846C too big for gridding system - putting it into overflow list
+skin 023D866C too big for gridding system - putting it into overflow list
+skin 023D888C too big for gridding system - putting it into overflow list
+.\application\jigtestapp.cpp:1823: [0012FCB8]: 
+.\application\jigtestapp.cpp:1874: [0012FCB8]: 
+Has no alpha
+.\framework\camera.cpp:38: [02448618]: 
+.\framework\viewport.cpp:32: [024486C0]: 
+New number of objects = 245
+Using QueryPerformance for timing
+FPS =  5.00, Physics duration = 13.08ms which is 78.49% of the timestep
+Warning - physics can't keep up
+FPS = 13.00, Physics duration = 23.00ms which is 137.98% of the timestep
+Warning - physics can't keep up
+.\application\jigtestapp.cpp:77: [0012FCB8]: 
+.\framework\camera.cpp:50: [02448618]: 
+.\framework\viewport.cpp:40: [024486C0]: 
+.\collision\src\collisionsystemgrid.cpp:114: [0124FD80]: 
+.\collision\src\collisionsystem.cpp:61: [0124FD80]: 
+.\framework\rendermanager.cpp:28: [0012FDB4]: 
+.\physics\src\physicssystem.cpp:67: [0012FCF4]: 
+.\framework\sdlapplicationbase.cpp:72: [0012FCB8]: 
+Program exiting normally

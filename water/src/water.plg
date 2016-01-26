@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: water - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\DANNYC~1\LOCALS~1\Temp\RSP42.tmp" with contents
+[
+/nologo /GB /MD /W3 /O2 /Ob2 /I "..\..\include" /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Release/" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\code\jiglib\jiglib-0.73\water\src\water\shapes.cpp"
+"E:\code\jiglib\jiglib-0.73\water\src\water\water.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\DANNYC~1\LOCALS~1\Temp\RSP42.tmp" 
+Creating temporary file "C:\DOCUME~1\DANNYC~1\LOCALS~1\Temp\RSP43.tmp" with contents
+[
+JigLibRelease.lib glu32.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /pdb:none /machine:I386 /out:"..\water-release.exe" /libpath:"..\..\lib" 
+".\Release\shapes.obj"
+".\Release\spatialgrid.obj"
+".\Release\water.obj"
+"\code\jiglib\jiglib-0.73\lib\JigLibRelease.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\DANNYC~1\LOCALS~1\Temp\RSP43.tmp"
+<h3>Output Window</h3>
+Compiling...
+shapes.cpp
+water.cpp
+Generating Code...
+Linking...
+Creating command line "bscmake.exe /nologo /o"Release/water.bsc"  ".\Release\shapes.sbr" ".\Release\spatialgrid.sbr" ".\Release\water.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+water-release.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
